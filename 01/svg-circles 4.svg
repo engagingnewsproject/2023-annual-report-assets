@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="532px" height="528px" viewBox="0 0 532 528" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg-circles</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="531" height="465"></rect>
+        <path d="M353.5,462 C546.799662,462 703.5,305.299662 703.5,112 C703.5,-81.2996624 546.799662,-238 353.5,-238 C160.200338,-238 3.5,-81.2996624 3.5,112 C3.5,305.299662 160.200338,462 353.5,462 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="700" height="700" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="svg-circles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval-Copy" transform="translate(0, 63)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Oval" stroke-dasharray="7,7" mask="url(#mask-2)" stroke="#00598D" stroke-width="3">
+                <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

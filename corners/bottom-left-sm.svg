@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="189.08304mm"
+   height="125.09074mm"
+   viewBox="0 0 189.08303 125.09073"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath723"><path
+         d="M -628.56,355.588 H 536.96 V -424 H -628.56 Z"
+         transform="translate(627.56004,-354.58791)"
+         id="path723" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath725"><path
+         d="M 0,0 H 612 V 792 H 0 Z"
+         transform="matrix(1.3333333,0,0,-1.3333333,7524,1056)"
+         id="path725" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath32"><rect
+         style="opacity:0.916836;fill:#000000"
+         id="rect32"
+         width="332.48834"
+         height="335.03616"
+         x="7523.9688"
+         y="717.24854" /></clipPath></defs><g
+     id="g615"
+     transform="matrix(0.26458333,0,0,0.26458334,-1990.7168,-154.30928)"><g
+       id="g723"><g
+         id="g724"
+         clip-path="url(#clipPath725)"><path
+           d="m 0,0 c 168.266,-454.003 605.185,-777.588 1117.718,-777.588 25.889,0 20.324,0.92 45.802,2.546 v 387.327 c -25.36,-2.407 -19.812,-3.687 -45.802,-3.687 -293.43,0 -550.181,156.922 -691.002,391.402 z"
+           style="fill:#303944;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(1.3333333,0,0,-1.3333333,6687.2533,583.21613)"
+           clip-path="url(#clipPath723)"
+           id="path724" /></g></g><g
+       id="g725"
+       clip-path="url(#clipPath32)"><path
+         id="path726"
+         d="M 0,0 C 61.742,-132.698 242.056,-273.71 368.346,-326.863 189.435,-232.677 119.274,-101.12 91.209,0 Z"
+         style="fill:#bd4a1f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1.3333333,0,0,-1.3333333,7251.5587,578.93613)" /></g></g></svg>
